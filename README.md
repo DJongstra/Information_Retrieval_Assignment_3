@@ -6,11 +6,10 @@
  - Johannes Voshol (s0200178)
 
 ## Report
-[Report.pdf]()
+[Report.pdf](https://github.com/DJongstra/Information_Retrieval_Assignment_3/blob/main/Information_Retrieval__Assignment_3.pdf)
 
 ## Overview
-
-## Links
+Following notebook: [Plagiarism_Notebook](https://github.com/DJongstra/Information_Retrieval_Assignment_3/blob/main/IR_PlagiarismDetection.ipynb) holds all required parts of assignment 3. The notebook is divided into multiple sections: Similarity Analysis, LSH Implementation, Evaluation and Large CSV. The result of implementing LSH on news_articles_large.csv and  finding all pairs of documents that are duplicates or near-duplicates (that have a similarity of at least 0.8) can be found here: [Large_Dataset_result](https://github.com/DJongstra/Information_Retrieval_Assignment_3/blob/main/news_articles_large_RESULT.csv). 
 
 ## Usage
 All notebooks can be opened and run on Google colab. 
